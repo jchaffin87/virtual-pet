@@ -2,7 +2,7 @@ Dear player,
 
 Hello, and welcome to VirtualPet! You are about to embark on a journey through an unbelievably realistic simulation of pet ownership, taking the role of the proud new owner of this cute little doggy:
 	
-	![Ridiculously Cute Puppers](images/RidiculouslyCutePuppers.jpg) 
+	![Ridiculously Cute Puppers](virtual-pet/images/RidiculouslyCutePuppers.jpg) 
 
 Like, OMG, right?!
 
