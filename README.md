@@ -2,7 +2,7 @@ Dear player,
 
 Hello, and welcome to VirtualPet! You are about to embark on a journey through an unbelievably realistic simulation of pet ownership, taking the role of the proud new owner of this cute little doggy:
 	
-	![Ridiculous Puppers](https://i.pinimg.com/736x/f5/7e/00/f57e00306f3183cc39fa919fec41418b--teddy-bears-teddy-bear-dogs.jpg
+	![Ridiculously Cute Puppers](images/RidiculouslyCutePuppers.jpg) 
 
 Like, OMG, right?!
 
